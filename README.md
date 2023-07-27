@@ -21,6 +21,17 @@ my idead weather conditions. So mine were a max temp greater than 18 degrees but
 cloudiness less than 60. A new dataframe called hotle_df was creted to store the city, country, coordinates, and humidity. Geoapify API was used to find the first hotel 
 located within 10,000 meters of my coordinates. The hotel names and the country were added as additional information in the hover message for each city on the map.
 
+## Pictures of Results
+
+![City Latitude vs Max Temp](output_data/Fig1.png)
+
+(output_data/Fig2.png)
+
+(output_data/Fig3.png)
+
+(output_data/Fig4.png)
+
+
 *Technologies used: Microsoft Visual Studio Code. Citipy library and OpenWeatherMapAPI were also used.
 
 *How to activate code:
