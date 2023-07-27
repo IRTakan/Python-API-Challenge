@@ -22,3 +22,8 @@ cloudiness less than 60. A new dataframe called hotle_df was creted to store the
 located within 10,000 meters of my coordinates. The hotel names and the country were added as additional information in the hover message for each city on the map.
 
 *Technologies used: Microsoft Visual Studio Code. Citipy library and OpenWeatherMapAPI were also used.
+
+*How to activate code:
+-Save the repository in your desired location, then cd into that directory in git bash (or use terminal if you're OS user).
+-Type jupyter notebook into the terminal.
+-Once you're in jupyter notebook, open each of the .ipynb files and run through each section of the script.
