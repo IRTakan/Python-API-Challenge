@@ -23,14 +23,17 @@ located within 10,000 meters of my coordinates. The hotel names and the country 
 
 ## Pictures of Results
 
-![City Latitude vs Max Temp](output_data/Fig1.png)
+![Fig1](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/f00039bb-b553-4fd9-aee0-007c55965403)
 
-(output_data/Fig2.png)
+![Fig2](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/6f02034d-792b-4584-b061-2cbce92bcda8)
 
-(output_data/Fig3.png)
+![Fig3](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/3501a5c5-40df-4211-b3f5-b876d52ce95f)
 
-(output_data/Fig4.png)
+![Fig4](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/5954da2a-b453-4887-94aa-d0e771ff8f2e)
 
+![humidity1](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/37a900a6-d5dc-47a7-82e9-31debd1cc4b7)
+
+![vacation1](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/1f414d9b-cd31-45c6-81f1-83537550d1c2)
 
 *Technologies used: Microsoft Visual Studio Code. Citipy library and OpenWeatherMapAPI were also used.
 
