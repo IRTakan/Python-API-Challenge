@@ -24,6 +24,9 @@ located within 10,000 meters of my coordinates. The hotel names and the country 
 *Technologies used: Microsoft Visual Studio Code. Citipy library and OpenWeatherMapAPI were also used.
 
 *How to activate code:
+
 -Save the repository in your desired location, then cd into that directory in git bash (or use terminal if you're OS user).
+
 -Type jupyter notebook into the terminal.
+
 -Once you're in jupyter notebook, open each of the .ipynb files and run through each section of the script.
