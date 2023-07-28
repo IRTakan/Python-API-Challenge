@@ -35,6 +35,24 @@ located within 10,000 meters of my coordinates. The hotel names and the country 
 
 <img src ="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/1f414d9b-cd31-45c6-81f1-83537550d1c2" width=500 height=300>
 
+
+![North_Cloud_Lat](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/cd8d5514-8c01-4e0d-bb5a-bb87b8cd43d7)
+
+![North_humid_Lat](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/b1b22ace-2331-4e12-85a1-5507308f778d)
+
+![North_Lat_Temp](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/0b7a0de1-eaf6-474c-a14c-80e8c498755b)
+
+![North_Wind_Lat](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/deaf5382-08a9-425f-8e60-08dff8749622)
+
+![South_Cloud_Lat](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/c17babb2-e505-45b7-9d43-f53a8108b027)
+
+![South_Humid_Lat](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/8ac64535-d1db-41a8-98e8-1bb2090105b7)
+
+![South_Lat_Temp](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/972a4646-7801-4b98-84f9-44773755b5a6)
+
+![South_Wind_Lat](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/8252a05e-e2d0-4789-87d9-7c8b39815765)
+
+
 *Technologies used: Microsoft Visual Studio Code. Citipy library and OpenWeatherMapAPI were also used.
 
 *How to activate code:
