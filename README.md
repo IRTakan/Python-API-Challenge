@@ -23,17 +23,17 @@ located within 10,000 meters of my coordinates. The hotel names and the country 
 
 ## Pictures of Results
 
-![Fig1](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/f00039bb-b553-4fd9-aee0-007c55965403)
+<img src="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/f00039bb-b553-4fd9-aee0-007c55965403" width=400 height=300>
 
-![Fig2](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/6f02034d-792b-4584-b061-2cbce92bcda8)
+<img src="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/6f02034d-792b-4584-b061-2cbce92bcda8" width=400 height=300>
 
-![Fig3](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/3501a5c5-40df-4211-b3f5-b876d52ce95f)
+<img src="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/3501a5c5-40df-4211-b3f5-b876d52ce95f" width=400 height=300>
 
-![Fig4](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/5954da2a-b453-4887-94aa-d0e771ff8f2e)
+<img src ="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/5954da2a-b453-4887-94aa-d0e771ff8f2e" width=400 height=300>
 
-![humidity1](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/37a900a6-d5dc-47a7-82e9-31debd1cc4b7)
+<img src ="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/37a900a6-d5dc-47a7-82e9-31debd1cc4b7" width=500 height=300>
 
-![vacation1](https://github.com/IRTakan/Python-API-Challenge/assets/132292790/1f414d9b-cd31-45c6-81f1-83537550d1c2)
+<img src ="https://github.com/IRTakan/Python-API-Challenge/assets/132292790/1f414d9b-cd31-45c6-81f1-83537550d1c2" width=500 height=300>
 
 *Technologies used: Microsoft Visual Studio Code. Citipy library and OpenWeatherMapAPI were also used.
 
